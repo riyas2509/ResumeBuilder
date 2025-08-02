@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ResumeBuilderFinal
+comment1.params=
+comment1.target=ResumeBuilderFinal()
+comment2.params=
+comment2.target=void\ addPlatformField()
+comment3.params=
+comment3.target=void\ saveAsText()
+comment4.params=
+comment4.target=java.lang.String\ getFormattedText()
+comment5.params=
+comment5.target=void\ exportToPDF()
+comment6.params=
+comment6.target=boolean\ validateFields()
+comment7.params=
+comment7.target=void\ showATSScore()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ResumeBuilder
+comment1.params=
+comment1.target=ResumeBuilder()
+comment2.params=
+comment2.target=void\ addPlatformField()
+comment3.params=
+comment3.target=boolean\ isValidInput()
+comment4.params=
+comment4.target=void\ saveAsTxt()
+comment5.params=
+comment5.target=void\ checkATSScore()
+comment6.params=
+comment6.target=boolean\ areFieldsValid()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

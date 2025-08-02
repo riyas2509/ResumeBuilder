@@ -1,0 +1,69 @@
+====================================
+              Riya Shah
+            1st Year Student
+         Ahmedabad, Gujarat, India
+====================================
+Phone: +91 8850170048
+Email: riyamshah2509@gmail.com
+Insta: riyas_2509
+------------ PROFILE INFO ------------
+Currently pursuing a B.Tech in Artificial Intelligence & Machine Learning, with a strong passion for coding, UI/UX design, and storytelling. Seeking internships or freelance opportunities to contribute meaningfully to innovative tech projects.
+------------ EDUCATION ------------
+2023 - 2024
+12th Standard
+Satyameva Jayate International School
+Ahmedabad, Gujarat
+
+2024 - Present
+B.Tech in AI & ML
+JG University
+Ahmedabad, Gujarat
+     Science and Computers
+     Also prepared for JEE Examination
+
+2021 - 2022
+10th Standard
+R.B.K. School
+Mumbai, Maharastra
+     Science and Computers
+------------ SKILLS ------------
+Technical Skills: Programming: C, C++, Java
+Web & UI Tools: Canva, Adobe, GitHub, Microsoft
+Technologies: DBMS, DSA, VS Code
+Soft Skills: Time Management
+Critical Thinking
+Attention to Detail
+Problem Solving
+Communication
+Leadership
+Creative Thinking
+Multitasking
+Listening
+Extra Skills: UI/UX Design
+Storytelling
+Content Creation
+Debugging & Optimization
+Algorithm Design
+------------ PROJECTS ------------
+Personal Porfolio Website
+Designed and developed a professional portfolio with modern visual storytelling principles using Canva.
+Sudoku Solver & Generator
+Solo project using C and backtracking algorithms to create and solve Sudoku puzzles of varying difficulty levels.
+Object Detection Model (YOLO)
+Led a team during the Royal Hackathon to develop a real-time object detection system using YOLO and OpenCV.
+In this we also had to create a code using C language which was done by Me
+Vision Boards
+Designed visually appealing and motivational vision boards combining design theory and psychology.
+------------ EXPERIENCE ------------
+No Experience
+------------ LANGUAGES ------------
+English
+Hindi
+Gujarati
+------------ INTERESTS ------------
+Algorithm Development, App Prototyping, Full-Stack Projects
+🧠 Code Debugging | ✍🏻 Wattpad Author
+🏊‍♀️ Swimming | 🏸 Badminton | 🎨 Drawing & Mandala Art
+Platform: LinkedIn | Link: https://www.linkedin.com/in/riya-shah-335056290/
+Platform: GitHub | Link: https://github.com/riyas2509
+Platform: Hackkerrank | Link: https://www.hackerrank.com/profile/riyamshah2509
