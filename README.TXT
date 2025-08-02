@@ -45,26 +45,7 @@ ResumeBuilder-Java/
 ├── lib/ # iText JAR for PDF export (optional)
 ├── output/ # Exported files
 └── README.md
-
-
 ---
-
-## 🚀 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/ResumeBuilder-Java.git
-   cd ResumeBuilder-Java
-Open in BlueJ or any IDE supporting Java Swing
-
-Compile and run ResumeBuilder.java
-
-🔧 Dependencies
-Java 8 or above
-
-Swing (comes with JDK)
-
-(Optional) iText PDF library if PDF export is enabled
 
 📦 Future Enhancements
  Export as PDF with modern CV layout
